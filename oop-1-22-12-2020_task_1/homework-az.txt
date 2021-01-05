@@ -1,0 +1,58 @@
+2) UniversityStaff adında byte tipli enum yaradın:
+
+Student,
+Teacher,
+Lecturer,
+Professor
+
+Daha sonra universitetin mini-sistemini yazın: 
+
+2.1 Proqram çalışarkən bizdən aşağıdakiləri soruşsunlar:
+
+a) Please enter your name:
+
+b) Please enter your surname:
+
+c) Please enter your father's name:
+
+d) Select your role:
+1. Student
+2 .Teacher
+3. Lecturer
+4. Professor
+
+Seçilmiş rola əsasən müxtəlif mesajlar çıxsın (switch-dən istifadə edin):
+1. Student = "Welcome to our university, {name} {surname} {fatherName}!"
+2. Teacher = "Our university is the best place for self-developing you as a teacher!"
+3. Lecturer = "Welcome back, {name}! Students are waiting for your lectures :)"
+
+Professor üçün mesaj bir qədər fərqlidir. Günün saatından aslı olaraq ona:
+
+Good Morning
+Good Afternoon 
+Good Evening 
+
+kimi mesajlar göndərilməlidir. Bunun üçün DateTime-dan istifadə edin. greetingWord variable-ı sözlərdən birini özündə saxlayacaq.
+
+4. Professor = "{greetingWord} Professor!"
+
+
+3) Country adında klass yaradın:
+
+string Name
+string Capital
+int population
+string SeaName
+
+3.1 İlk 3 property required, ölkədəki dəniz adı isə Optional olmalıdır və null dəstəkləməlidir.
+3.2 Klassın obyektini yaradın və property-ləri konstruktor ilə doldurun.
+3.3 Ölkə haqda məlumatları ekrana çıxardın.
+3.4 ?, ?? və ??= operatorlarından istifadə edərək SeaName property-sinin null olub olmadığını yoxlayın.
+    SeaName null olarsa, "There is no sea" ekrana çıxsın.
+
+
+
+
+
+
+

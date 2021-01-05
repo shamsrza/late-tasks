@@ -1,0 +1,13 @@
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.exe
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.deps.json
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.runtimeconfig.json
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.runtimeconfig.dev.json
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.dll
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\bin\Debug\netcoreapp3.1\Country_class.pdb
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.csprojAssemblyReference.cache
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.AssemblyInfoInputs.cache
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.AssemblyInfo.cs
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.csproj.CoreCompileInputs.cache
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.dll
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.pdb
+C:\Users\srzayeva\Desktop\Homework_ p316-OOP-1-22-12-2020\Homework_2\Country_class\Country_class\obj\Debug\netcoreapp3.1\Country_class.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.csprojAssemblyReference.cache
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.AssemblyInfoInputs.cache
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.AssemblyInfo.cs
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.csproj.CoreCompileInputs.cache
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.exe
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.deps.json
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.runtimeconfig.json
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.runtimeconfig.dev.json
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.dll
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\bin\Debug\netcoreapp3.1\UniversityStaff.pdb
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.dll
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.pdb
+C:\Users\srzayeva\source\repos\UniversityStaff\UniversityStaff\obj\Debug\netcoreapp3.1\UniversityStaff.genruntimeconfig.cache

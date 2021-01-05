@@ -1,0 +1,52 @@
+2) Создайте enums байтового типа с именем UniversityStaff:
+
+Student,
+Teacher,
+Lecturer,
+Professor
+
+Затем напишите мини-систему университета:
+
+2.1 При запуске программы задайте нам следующие вопросы:
+
+а) Пожалуйста, введите ваше имя:
+
+б) Пожалуйста, введите свою фамилию:
+
+c) Пожалуйста, введите ваше имя:
+
+г) Выберите свою роль:
+1. Student
+2 .Teacher
+3. Lecturer
+4. Professor
+
+Отображать разные сообщения в зависимости от выбранной роли (используйте switch):
+1. Student = "Welcome to our university, {name} {surname} {fatherName}!"
+2. Teacher = "Our university is the best place for self-developing you as a teacher!"
+3. Lecturer = "Welcome back, {name}! Students are waiting for your lectures :)"
+
+Послание профессору немного иное. В зависимости от времени суток:
+
+Good Morning
+Good Afternoon 
+Good Evening 
+
+Используйте для этого DateTime. Переменная greetingWord будет содержать одно из слов.
+
+4. Professor = "{greetingWord} Professor!"
+
+
+3) Создайте класс с именем Country:
+
+string Name
+string Capital
+int population
+string SeaName
+
+3.1 Первые 3 свойства являются обязательными, а название моря в стране должно быть необязательным и поддерживать null.
+3.2 Создайте объект класса и заполните свойства конструктором.
+3.3 Отображение информации о стране.
+3.4 ?, ?? и ?? = Проверить, имеет ли свойство SeaName значение null.
+    Если SeaName имеет значение null, отобразить «Нет моря».
+
