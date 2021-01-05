@@ -1,0 +1,13 @@
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.csprojAssemblyReference.cache
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.AssemblyInfoInputs.cache
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.AssemblyInfo.cs
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.csproj.CoreCompileInputs.cache
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.exe
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.deps.json
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.runtimeconfig.json
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.runtimeconfig.dev.json
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.dll
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\bin\Debug\netcoreapp3.1\Homework_2__.pdb
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.dll
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.pdb
+C:\Users\srzayeva\Desktop\Homeworks_C#\Homework_1\Homework_2__\Homework_2__\obj\Debug\netcoreapp3.1\Homework_2__.genruntimeconfig.cache
