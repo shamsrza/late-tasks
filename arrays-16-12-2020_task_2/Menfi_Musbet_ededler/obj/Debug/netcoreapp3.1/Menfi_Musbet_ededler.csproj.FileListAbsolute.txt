@@ -1,0 +1,13 @@
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.exe
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.deps.json
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.runtimeconfig.json
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.runtimeconfig.dev.json
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.dll
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\bin\Debug\netcoreapp3.1\Menfi_Musbet_ededler.pdb
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.csprojAssemblyReference.cache
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.AssemblyInfoInputs.cache
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.AssemblyInfo.cs
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.csproj.CoreCompileInputs.cache
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.dll
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.pdb
+C:\Users\srzayeva\source\repos\Menfi_Musbet_ededler\Menfi_Musbet_ededler\obj\Debug\netcoreapp3.1\Menfi_Musbet_ededler.genruntimeconfig.cache
