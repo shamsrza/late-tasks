@@ -6,7 +6,7 @@ namespace methods_task_5
     {
         static void Main(string[] args)
         {
-            int a = 25;
+            int a = 5;
             AddData(ref a);
             Console.WriteLine(a);
             
