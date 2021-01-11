@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srzayeva\\source\\repos\\methods-task_4\\methods-task_4\\methods-task_4.csproj",
+      "projectUniqueName": "C:\\Users\\srzayeva\\Desktop\\late_tasks\\late-tasks\\methods-21-12-2020_task_4\\methods-task_4\\methods-task_4.csproj",
       "projectName": "methods-task_4",
-      "projectPath": "C:\\Users\\srzayeva\\source\\repos\\methods-task_4\\methods-task_4\\methods-task_4.csproj",
+      "projectPath": "C:\\Users\\srzayeva\\Desktop\\late_tasks\\late-tasks\\methods-21-12-2020_task_4\\methods-task_4\\methods-task_4.csproj",
       "packagesPath": "C:\\Users\\srzayeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srzayeva\\source\\repos\\methods-task_4\\methods-task_4\\obj\\",
+      "outputPath": "C:\\Users\\srzayeva\\Desktop\\late_tasks\\late-tasks\\methods-21-12-2020_task_4\\methods-task_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\srzayeva\\AppData\\Roaming\\NuGet\\NuGet.Config",

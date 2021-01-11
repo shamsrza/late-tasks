@@ -10,7 +10,6 @@ namespace methods_task_4
         {
 
             List<string> wordsList = new List<string>();
-            List<string> list2 = new List<string>();
             string s = "";
             char c = 'y';
 
