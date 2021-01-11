@@ -1,0 +1,13 @@
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.exe
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.deps.json
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.runtimeconfig.json
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.runtimeconfig.dev.json
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.dll
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\bin\Debug\netcoreapp3.1\methods_task_5.pdb
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.csprojAssemblyReference.cache
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.AssemblyInfoInputs.cache
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.AssemblyInfo.cs
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.csproj.CoreCompileInputs.cache
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.dll
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.pdb
+C:\Users\srzayeva\source\repos\methods_task_5\methods_task_5\obj\Debug\netcoreapp3.1\methods_task_5.genruntimeconfig.cache

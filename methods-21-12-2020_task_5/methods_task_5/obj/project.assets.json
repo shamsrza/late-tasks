@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srzayeva\\source\\repos\\ConsoleApp28\\ConsoleApp28\\ConsoleApp28.csproj",
-      "projectName": "ConsoleApp28",
-      "projectPath": "C:\\Users\\srzayeva\\source\\repos\\ConsoleApp28\\ConsoleApp28\\ConsoleApp28.csproj",
+      "projectUniqueName": "C:\\Users\\srzayeva\\source\\repos\\methods_task_5\\methods_task_5\\methods_task_5.csproj",
+      "projectName": "methods_task_5",
+      "projectPath": "C:\\Users\\srzayeva\\source\\repos\\methods_task_5\\methods_task_5\\methods_task_5.csproj",
       "packagesPath": "C:\\Users\\srzayeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srzayeva\\source\\repos\\ConsoleApp28\\ConsoleApp28\\obj\\",
+      "outputPath": "C:\\Users\\srzayeva\\source\\repos\\methods_task_5\\methods_task_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\srzayeva\\AppData\\Roaming\\NuGet\\NuGet.Config",
